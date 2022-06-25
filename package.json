@@ -1,0 +1,25 @@
+{
+  "name": "@zz/watermask",
+  "version": "0.1.0",
+  "description": "canvas 实现 watermask 前端页面水印 支持多行文本、动态字体加载",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "rm -rf ./lib & tsc",
+    "prepare": "npm run build",
+    "postversion": "git push --tags"
+  },
+  "keywords": [
+    "water",
+    "mask",
+    "watermask",
+    "canvas",
+    "javascript",
+    "typescript"
+  ],
+  "author": "zhangzheng",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
