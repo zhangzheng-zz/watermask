@@ -1,7 +1,8 @@
 canvas 实现 watermask 前端页面水印 (Dynamic Font)
 支持多行文本、动态字体加载 (Multi Text)
 
-![demo](./src/assets/demo.png)
+<img width="477" alt="demo的副本" src="https://user-images.githubusercontent.com/63552419/175759847-1615624d-9a9e-4f99-af36-3c24ea3708ce.png">
+
 
 ## 使用
 ```js
